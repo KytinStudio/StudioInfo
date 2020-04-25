@@ -80,7 +80,11 @@ Online resources:
 * [Google Terms of Service](https://policies.google.com/terms)
 * [Google Privacy Policy](https://policies.google.com/privacy)
 
-**3.3 Log Data**
+**3.3 Unity**
+
+* [Privacy policy](https://unity3d.com/legal/privacy-policy)
+
+**3.4 Log Data**
 
 I want to inform you that whenever you use my app, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
@@ -125,4 +129,4 @@ This policy may be updated from time to time.
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to
 contact me.
 
-kytinstudio(at)gmail(dot)com
+kytinstudio@gmail.com
