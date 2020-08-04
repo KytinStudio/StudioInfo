@@ -24,6 +24,7 @@ Links to privacy policies of third party service providers used in the app
 * [Google Play Services](https://www.google.com/policies/privacy/)
 * [AdMob](https://support.google.com/admob/answer/6128543)
 * [Unity](https://unity3d.com/legal/privacy-policy)
+* [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 
 **2.1 AdMob**
 
@@ -58,7 +59,11 @@ Online resources:
 
 * [Privacy policy](https://unity3d.com/legal/privacy-policy)
 
-**2.4 Log Data**
+**2.4 Firebase**
+
+* [Policy](https://firebase.google.com/policies/analytics)
+
+**2.5 Log Data**
 
 The developer inform you that whenever you use app, in a case of an error in the app developer collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing the app, the time and date of your use of the app, and other statistics.
 
