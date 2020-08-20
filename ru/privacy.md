@@ -1,111 +1,107 @@
-## Privacy Policy
+## Политика конфиденциальности
 
-Developer built the "Basil Cat: Hidden Adventure" app as an Ad Supported app. This app is provided by at no cost and is intended for use as is.
+Разработчик создал приложение "Basil Cat: Hidden Adventure" в качестве приложения с поддержкой рекламы. Это приложение предоставляется бесплатно и предназначено для использования как есть.
 
-This privacy policy is used to inform you regarding policies with the collection, use, and 
-disclosure of Personal Information if anyone decided to use this Service.
+Настоящая политика конфиденциальности используется для информирования Вас о правилах сбора, использования и раскрытия Персональной информации, если кто-либо решил использовать это приложение.
 
-**1. What Information Are Collected and Why**
+**1. Какая информация собирается и почему**
 
-We aim to minimize how much personal information we collect from users when they play the Game. Most of our data collection is limited to the following types of data, which do not identify you personally but may uniquely identify the device you are using to play to the Game:
+Мы стремимся свести к минимуму количество личной информации, которую мы собираем от пользователей, когда они играют в игру. Большая часть нашего сбора данных ограничивается следующими типами данных, которые не идентифицируют вас лично, но могут однозначно идентифицировать устройство, которое вы используете для игры в игру:
 
-* "Advertising ID", which means the resettable and unique identifier associated with your mobile phone or tablet that is used by advertisers for ad tracking.
-* "Location Information", which means general information about the location from which you're playing the Game (e.g. IP address).
-* "Device Information", which means technical information about your Device (e.g. Device ID, operating system, version of the Game installed on your Device).
+* "Advertising ID", что означает сбрасываемый и уникальный идентификатор, связанный с вашим мобильным телефоном или планшетом, который используется рекламодателями для отслеживания рекламы.
+* "Информация о местоположении", которая означает общую информацию о местоположении, из которого вы играете в игру (например, IP-адрес).
+* "Информация об устройстве", которая означает техническую информацию о вашем устройстве (например, идентификатор устройства, операционная система, версия игры, установленной на вашем устройстве).
 
-**2. Do Third Parties Have Access to My Personal Information?**
+**2. Имеют ли третьи лица доступ к моей личной информации?**
 
-Yes. The app uses advertising (and in app payments) to make revenue. The app uses third party
-libraries for advertising which may collect and share personal information with third
-parties.
+Да. Приложение использует рекламу (и платежи в приложении) для получения дохода. Приложение использует сторонние приложения
+библиотеки для рекламы, которые могут собирать и передавать личную информацию третьим лицам
+стороны.
 
-Links to privacy policies of third party service providers used in the app
+Ссылки на политику конфиденциальности сторонних поставщиков услуг, используемых в приложении
 
 * [Google Play Services](https://www.google.com/policies/privacy/)
 * [AdMob](https://support.google.com/admob/answer/6128543)
 * [Unity](https://unity3d.com/legal/privacy-policy)
 * [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+* [Firebase](https://firebase.google.com/policies/analytics)
 
 **2.1 AdMob**
 
-AdMob, is Google's mobile app advertising platform designed specifically for app
-developers. In order to understand Google's use of Data, consult Google's partner policy.
+AdMob - это рекламная платформа мобильных приложений Google, разработанная специально для приложений
+разработчики. Чтобы понять, как Google использует данные, ознакомьтесь с политикой партнеров Google.
 
-Online resources:
-* [Privacy Policy](https://www.google.com/policies/technologies/ads/)
-* [Opt out](https://www.google.com/settings/ads)
-* [Service Information](https://privacy.google.com/businesses/adsservices/)
-* [Partner policy](https://policies.google.com/technologies/partner-sites)
-* [Ad technology providers](https://support.google.com/admob/answer/9012903)
+Онлайновые ресурсы:
+* [Политика конфиденциальности](https://www.google.com/policies/technologies/ads/)
+* [Отказаться](https://www.google.com/settings/ads)
+* [Служебная информация](https://privacy.google.com/businesses/adsservices/)
+* [Партнерская политика](https://policies.google.com/technologies/partner-sites)
+* [Поставщики рекламных технологий](https://support.google.com/admob/answer/9012903)
 
 
 **2.2 Google Play Services**
 
-Google Play Services offers APIs and security services to the Android developer ecosystem.
-Google acts as a data controller for any personal data processed in Google Play Services,
-and offers user notices and consents about the use of personal data in the service’s user
-interface in Android.
+Google Play Services предлагает API и Службы безопасности для экосистемы разработчиков Android.
+Google выступает в качестве контроллера данных для любых персональных данных, обрабатываемых в сервисах Google Play,
+а также предлагает пользователю уведомления и дает согласие на использование персональных данных пользователя сервиса
+интерфейс в Android.
 
-Google use the collected information to provide, maintain, protect and improve Google's
-services, to develop new ones, and to protect Google and the users. Google also use this
-information to offer you tailored content – like giving you more relevant search results
-and ads.
+Google использует собранную информацию для предоставления, поддержания, защиты и улучшения работы Google.
+услуги, разрабатывать новые, а также защищать Google и пользователей. Google также использует это
+информация, чтобы предложить вам индивидуальный контент-например, дать вам более релевантные результаты поиска
+и объявления.
 
-Online resources:
-* [Google Terms of Service](https://policies.google.com/terms)
-* [Google Privacy Policy](https://policies.google.com/privacy)
+Онлайновые ресурсы:
+* [Условия предоставления услуг Google](https://policies.google.com/terms)
+* [Политика конфиденциальности Google](https://policies.google.com/privacy)
 
 **2.3 Unity**
 
-* [Privacy policy](https://unity3d.com/legal/privacy-policy)
+* [Политика конфиденциальности](https://unity3d.com/legal/privacy-policy)
 
 **2.4 Firebase**
 
-* [Policy](https://firebase.google.com/policies/analytics)
+* [Политика](https://firebase.google.com/policies/analytics)
 
 **2.5 Log Data**
 
-The developer inform you that whenever you use app, in a case of an error in the app developer collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing the app, the time and date of your use of the app, and other statistics.
+Разработчик сообщает вам, что всякий раз, когда вы используете приложение, в случае ошибки в приложении разработчик собирает данные и информацию (через сторонние продукты) на вашем телефоне под названием Log Data. Эти данные могут включать в себя такую информацию, как адрес интернет-протокола вашего устройства (“IP”), имя устройства, версию операционной системы, конфигурацию приложения при использовании приложения, время и дату вашего использования приложения и другие статистические данные.
 
-**3. Sharing Your Information**
+**3. Обмен Вашей Информацией**
 
-The developer will share personal information with third parties only in the ways that are described in this privacy statement.
+Разработчик будет передавать личную информацию третьим лицам только теми способами, которые описаны в настоящем заявлении о конфиденциальности.
 
-Your personal information may be disclosed:
-* As required by law, such as to comply with a subpoena, or similar legal process.
-* To any other third party with your prior consent to do so.
+Ваша личная информация может быть раскрыта:
+* В соответствии с требованиями закона, например, для выполнения Повестки в суд или аналогичного судебного процесса.
+* Любой другой третьей стороне с вашего предварительного согласия на это.
 
-**4. Security**
+**4. Безопасность**
 
-The developer is striving to use commercially acceptable means of protecting your Personal Information. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and developer cannot guarantee its absolute security.
+Разработчик стремится использовать коммерчески приемлемые средства защиты вашей личной информации. Но помните, что ни один метод передачи данных через интернет, ни один метод электронного хранения не является на 100% безопасным и надежным, и разработчик не может гарантировать его абсолютную безопасность.
 
-**5. Links to Other Sites**
+**5. Ссылки на другие сайты**
 
-This Service may contain links to other sites. If you click on a third-party link, you 
-will be directed to that site. Note that these external sites are not operated by me.
-Therefore, developer strongly advise you to review the Privacy Policy of these websites. Developer have 
-no control over and assume no responsibility for the content, privacy policies, or 
-practices of any third-party sites or services.
+Этот Сервис может содержать ссылки на другие сайты. Если вы нажмете на стороннюю ссылку, вы будете перенаправлены на этот сайт. Обратите внимание, что этими внешними сайтами разработчик не управляет.
+Поэтому разработчик настоятельно рекомендует вам ознакомиться с Политикой конфиденциальности этих веб-сайтов. Разработчик не контролирует и не несет ответственности за содержимое, политику конфиденциальности или действия сторонних сайтов или служб.
 
-**6. Children’s Privacy**
+**6. Конфиденциальность детей**
 
-Developer do not knowingly collect children's personal information without parental consent, except as permitted under applicable laws.
+Разработчик сознательно не собирает личную информацию детей без согласия родителей, за исключением случаев, разрешенных применимым законодательством.
 
-**7. Distribution**
+**7. Распространение**
 
-The only official channel for distribution of this app are:
+Единственным официальным каналом распространения этого приложения являются:
 * [Google Play Store](https://play.google.com/)
 
-Any other mode of distribution is not official and thus, is not maintained by the developer.
-This privacy policy is effective to distribution made on official channel only.
+Любой другой способ распространения не является официальным и, следовательно, не поддерживается разработчиком.
+Настоящая политика конфиденциальности действует только в отношении распространения информации по официальному каналу.
 
-**8. Changes to This Privacy Policy**
+**8. Изменения в настоящей Политике конфиденциальности**
 
-This policy may be updated from time to time.
+Эта политика может время от времени обновляться.
 
-**Developer Contact**
+**Контакт С Разработчиком**
 
-If you have any questions or suggestions about Privacy Policy, do not hesitate to
-contact developer.
+Если у вас есть какие-либо вопросы или предложения по Политике конфиденциальности, не стесняйтесь обращаться к разработчику.
 
 kytinstudio@gmail.com
