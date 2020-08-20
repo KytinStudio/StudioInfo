@@ -25,6 +25,7 @@ Links to privacy policies of third party service providers used in the app
 * [AdMob](https://support.google.com/admob/answer/6128543)
 * [Unity](https://unity3d.com/legal/privacy-policy)
 * [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+* [Firebase](https://firebase.google.com/policies/analytics)
 
 **2.1 AdMob**
 
@@ -81,11 +82,8 @@ The developer is striving to use commercially acceptable means of protecting you
 
 **5. Links to Other Sites**
 
-This Service may contain links to other sites. If you click on a third-party link, you 
-will be directed to that site. Note that these external sites are not operated by me.
-Therefore, developer strongly advise you to review the Privacy Policy of these websites. Developer have 
-no control over and assume no responsibility for the content, privacy policies, or 
-practices of any third-party sites or services.
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me.
+Therefore, developer strongly advise you to review the Privacy Policy of these websites. Developer have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
 **6. Children’s Privacy**
 
@@ -105,7 +103,6 @@ This policy may be updated from time to time.
 
 **Developer Contact**
 
-If you have any questions or suggestions about Privacy Policy, do not hesitate to
-contact developer.
+If you have any questions or suggestions about Privacy Policy, do not hesitate to contact developer.
 
 kytinstudio@gmail.com
